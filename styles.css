@@ -1,31 +1,31 @@
 body {
-	background: linear-gradient(45deg, #EA8D8D, #A890FE);
-	background-repeat: no-repeat;
-	min-height: 100vh;
+  background: linear-gradient(45deg, #ea8d8d, #a890fe);
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 p {
-	color: white;
-	text-align: center;
-	font-size: 24px;
+  color: white;
+  text-align: center;
+  font-size: 24px;
 }
 
-.summary{
-	font-style: italic;
+.summary {
+  font-style: italic;
 }
 
 h1 {
-	color: white;
-	text-align: center;
-	font-size: 48px;
+  color: white;
+  text-align: center;
+  font-size: 48px;
 }
 
-div.container{
-	display: flex;
-	justify-content: center;
-	color: white;
-	font-size: 24px;
-	text-align: center;
+div.container {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-size: 24px;
+  text-align: center;
 }
 
 .myList {
